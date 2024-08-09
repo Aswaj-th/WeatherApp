@@ -14,6 +14,9 @@ export default {
           400: "#896deb",
           500: '#6b66c6'
         }
+      },
+      screens: {
+        'bp': '720px'
       }
     },
   },
