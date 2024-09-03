@@ -8,10 +8,10 @@ export default {
     extend: {
       colors: {
         currentTheme: {
-          100: '#cdb5ff',
-          200: '#c2a3fd',
-          300: '#a796e8',
-          400: "#896deb",
+          100: '#52D3D8',
+          200: '#38419D',
+          300: '#3887BE',
+          400: "#008DDA",
           500: '#6b66c6'
         }
       },
